@@ -1,8 +1,5 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+# decentralized-identity-system-using-zks
+Zero-Knowledge Decentralized Identity System: Users can create and manage their identities on the blockchain, while zkSNARKs ensure privacy and confidentiality. The system can be used for secure login, data sharing, and access control in various applications.
 
 ```shell
 npx hardhat help
