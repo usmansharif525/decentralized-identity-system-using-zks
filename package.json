@@ -1,0 +1,29 @@
+{
+  "name": "decentralized-identity-system-using-zks",
+  "version": "1.0.0",
+  "description": "Zero-Knowledge Decentralized Identity System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmansharif525/decentralized-identity-system-using-zks.git"
+  },
+  "keywords": [
+    "Zero-Knowledge",
+    "Decentralized"
+  ],
+  "author": "usmansharif525",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/usmansharif525/decentralized-identity-system-using-zks/issues"
+  },
+  "homepage": "https://github.com/usmansharif525/decentralized-identity-system-using-zks#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.1"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
